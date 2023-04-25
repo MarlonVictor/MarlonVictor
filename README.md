@@ -18,9 +18,9 @@ I'm a Jr. front-end developer learning more and more about web technologies and 
 
 ### 🧐 About
 
-:earth_americas: I'm from Rio de Janeiro;  
-🌱 I am currently learn React;  
-:mortar_board: Studying Analysis and Systems Development;  
+:earth_americas: I'm from Rio de Janeiro - BR;  
+🌱 I am currently learn Vue.js;  
+:mortar_board: Graduated in Analysis and Systems Development;  
 :speech_balloon: Passionate about web development and the entire JavaScript ecosystem.
 
 ### ⚡ Main technologies
@@ -29,8 +29,11 @@ I'm a Jr. front-end developer learning more and more about web technologies and 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-DADBDF?style=flat-square&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-322448?style=flat-square&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-f7f7f7?style=flat-square&logo=tailwindcss)
+![StyledComponents](https://img.shields.io/badge/-StyledComponents-3A3A3A?style=flat-square&logo=styled-components)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-003874?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-282C34?style=flat-square&logo=react)
-![NextJs](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
-![StyledComponents](https://img.shields.io/badge/-StyledComponents-3A3A3A?style=flat-square&logo=styled-components)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-35465a?style=flat-square&logo=vue.js)
+
