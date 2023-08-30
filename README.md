@@ -2,7 +2,7 @@
 ## :technologist: Hello  ```< Developer />```
 
 <a href="https://github.com/MarlonVictor/github-readme-stats">
-  <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonVictor&theme=dracula">
+  <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonVictor&theme=github_dark_dimmed">
 </a>
 
 I'm a Jr. front-end developer learning more and more about web technologies and contributing to the open source universe.
